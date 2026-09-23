@@ -1,6 +1,6 @@
 ## Lifestyle
 
-![Watering the garden.](https://github.com/Kaydin-Smith/Assiginment1-KSC-My-Goals/blob/main/Gardening.jpg)
+![Watering the garden.](Gardening.jpg)
 
 Goal One: Work out on a consistent schedule.
 
