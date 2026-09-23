@@ -1,6 +1,6 @@
 ## Family and Community
 
-![Two parents walking with their child](https://github.com/Kaydin-Smith/Assiginment1-KSC-My-Goals/blob/main/family.jpg)
+![Two parents walking with their child](family.jpg)
 
 Goal One: Saving up for fertility treatment. 
 
