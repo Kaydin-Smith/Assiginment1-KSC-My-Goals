@@ -1,4 +1,4 @@
-Professional
+## Professional
 
 ![Two Professional Women Speaking.](https://github.com/Kaydin-Smith/Assiginment1-KSC-My-Goals/blob/main/professional.jpg)
 
