@@ -1,6 +1,6 @@
 ## Professional
 
-![Two Professional Women Speaking.](https://github.com/Kaydin-Smith/Assiginment1-KSC-My-Goals/blob/main/professional.jpg)
+![Two Professional Women Speaking.](professional.jpg)
 
 Goal One: To have a job that pays me and allows me to have my morals.
 
