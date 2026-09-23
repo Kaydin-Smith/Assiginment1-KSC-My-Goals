@@ -1,6 +1,6 @@
 ## Financial
 
-![Money](https://github.com/Kaydin-Smith/Assiginment1-KSC-My-Goals/blob/main/Financial.jpg)
+![Money](Financial.jpg)
 
 Goal One: Started saving a down payment for a plot of land or house. 
 
