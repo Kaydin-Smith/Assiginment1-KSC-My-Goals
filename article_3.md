@@ -1,4 +1,4 @@
-Lifestyle
+## Lifestyle
 
 ![Watering the garden.](https://github.com/Kaydin-Smith/Assiginment1-KSC-My-Goals/blob/main/Gardening.jpg)
 
